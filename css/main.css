@@ -1,0 +1,43 @@
+body{
+	/*background-image: url(../img/pizza.png); */
+	background: url(../img/pizza.png) no-repeat center top / cover;
+}
+
+.basket{
+	width: 25px;
+
+}
+.navbar{
+	position: fixed; 
+}
+
+.row{
+	width: 100%;
+
+}
+#carouselExampleIndicators img {
+	padding: 50px;
+	width: 98% !important;
+}
+.block{
+	padding: 10px;
+	width: 100%;
+	display: inline-block;
+
+}
+#card_container{
+	display: inline-block;
+	width: 100%;
+}
+.card{
+	display: inline-block !important;
+    width: 313px;
+}
+.card-deck {
+	width: 100%;
+}
+.buttons{
+background: red;
+height: 0px;
+}
+

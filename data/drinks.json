@@ -1,0 +1,21 @@
+[
+    {
+        "src": "img/rancho.jpg",
+        "name": "Rancho",
+        "price": [85, "MDL"],
+        "description": "Сыр моцарелла, куриное филе, красный перец."
+    },
+    {
+        "src": "img/funghi.jpg",
+        "name": "Funghi",
+        "price": [85,"MDL"],
+        "description": "Сливки, грибы Шампиньоны, Моцарелла."
+    },
+    {
+        "src": "img/diadlo.jpg",
+        "name": "Diadlo",
+        "price": [75,"MDL"],
+        "description": "Сыр моцарелла, колбаски  острый перец, гогошары."
+    }
+
+]
