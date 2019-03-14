@@ -1,0 +1,19 @@
+[
+    {
+        "src": "img/rancho.jpg",
+        "name": "вав",
+        "price": [85, "MDL"]
+    },
+    {
+        "src": "img/funghi.jpg",
+        "name": "апеа",
+        "price": [85,"MDL"]
+    },
+    {
+        "src": "img/diadlo.jpg",
+        "name": "паап",
+        "price": [75,"MDL"]
+    
+    }
+
+]

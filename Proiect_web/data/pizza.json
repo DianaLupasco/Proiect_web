@@ -1,0 +1,59 @@
+[
+    {
+        "src": "img/rancho.jpg",
+        "name": "Rancho",
+        "price": [85, "MDL"],
+        "description": "Сыр моцарелла, куриное филе, красный перец."
+    },
+    {
+        "src": "img/funghi.jpg",
+        "name": "Funghi",
+        "price": [85,"MDL"],
+        "description": "Сливки, грибы Шампиньоны, Моцарелла."
+    },
+    {
+        "src": "img/diadlo.jpg",
+        "name": "Diadlo",
+        "price": [75,"MDL"],
+        "description": "Сыр моцарелла, колбаски  острый перец, гогошары."
+    },
+    {
+        "src": "img/barbeque.jpg",
+        "name": "Barbeque",
+        "price": [90,"MDL"],
+        "description": "Бекон, филе куриное, салями, сыр Моцарелла, гогошары."
+    },
+    {
+        "src": "img/pepperoni.jpg",
+        "name": "Pepperoni",
+        "price": [70,"MDL"],
+        "description": "Сыр моцарелла, салями, перец молотый  красный перец."
+    },
+    {
+        "src": "img/siciliana.jpg",
+        "name": "Siciliana",
+        "price": [95,"MDL"],
+        "description": "Сыр моцарелла, тамбовский окорок, запеченные грибы."
+    },
+    {
+        "src": "img/margareta.jpg",
+        "name": "Margareta",
+        "price": [85,"MDL"],
+        "description": "Тонкое тесто,сыр моцарелла, базилик, соус для пиццы."
+    },
+    {
+        "src": "img/mario.jpg",
+        "name": "Mario",
+        "price": [85,"MDL"],
+        "description": "Тонкное тесто, соус для пицы,  базилик,  оливковое масло."
+    },
+    {
+        "src": "img/cheeses.jpg",
+        "name": "Cheeses",
+        "price": [80,"MDL"],
+        "description": "Сыр моцарелла, сыр пармезан, сыр dor blue, сыр эдам, сыр с плесенью."
+    }
+    
+]
+
+
